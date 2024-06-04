@@ -1,0 +1,21 @@
+I am testing git here.
+
+GIT COMMANDS
+
+git init: 
+for initialising(bsically setting up the environment) 
+
+git remote add origin:
+ addig where to link via a url(jha show krna h wha ka link)
+
+git -v :
+ it basically connects to the particular repository/version
+
+git status :
+ it tells what all things are included .. basiczlly the current status
+
+git add:
+  for adding particular files in a repository.
+  git add . (adds all the files)
+  git add filename(adds particular file)
+     
