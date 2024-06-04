@@ -1,4 +1,5 @@
 I am testing git here.
+I am giving an example.
 
 GIT COMMANDS
 
@@ -18,4 +19,9 @@ git add:
   for adding particular files in a repository.
   git add . (adds all the files)
   git add filename(adds particular file)
+  git add -p(shows line by line changes  & provides options)
+
+git commit -m :
+ this means to commit the changes you did (m :message in " ") 
      
+VI edittor commands:
