@@ -18,18 +18,18 @@
 
 # print(sum)
 
-#=0
+# i=0
 # while(i<10):
 #     if(i==5):
 #         continue
 #     print(i)
-#     i+=1      This leads to an infinite loop
-# i = 0
-# while (i<10):
-#     i+=1
-#     if(i==5):
-#         continue
-#     print(i)  
+#     i+=1      #This leads to an infinite loop
+i = 0
+while (i<10):
+    i+=1
+    if(i==5):
+        continue
+    print(i)  
 
 n=int(input())
 # sum=0

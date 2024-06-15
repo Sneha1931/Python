@@ -23,5 +23,18 @@ git add:
 
 git commit -m :
  this means to commit the changes you did (m :message in " ") 
-     
+
+git push master orgin:
+ it pushes the code in the master repository.   
+
+git push:
+ it is done for main branches .
+
+git log --oneline:
+ shows the number of commits with their respective hash value
+
+git clone:
+ it is basically used when you want to get others code using their url 
+ syntax : git clone url
+
 VI edittor commands:
