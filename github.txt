@@ -35,6 +35,6 @@ git log --oneline:
 
 git clone:
  it is basically used when you want to get others code using their url 
- syntax : git clone url
+ syntax : git clone url-
 
 VI edittor commands:
